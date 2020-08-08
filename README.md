@@ -8,7 +8,7 @@ The Electronic Simon Game using Node.js
           
       -Navigate to the folder via terminal using "cd" commands.      
       
-      -Run the command to run the application.     
+      -Run the following command to run the application:    
            nodemon jquery.js          
            
       -Open the localhost:3000 in the browser to launch the game.
